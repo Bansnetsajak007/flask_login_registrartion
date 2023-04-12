@@ -1,0 +1,1 @@
+Basic User login/registration model implemented using FLASK and MYSQL database
